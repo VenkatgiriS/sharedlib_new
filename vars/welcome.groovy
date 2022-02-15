@@ -1,3 +1,3 @@
-def welcome(name){
+def call(name){
  echo "Hi ${name}"
  }
