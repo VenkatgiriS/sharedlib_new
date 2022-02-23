@@ -1,4 +1,6 @@
 Pipeline Script for private Repo
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 library identifier: 'pipeline_call@main',
     // 'mylibraryname' is just an identifier, it can be anything you like
     // 'master' refers to a valid git ref (branch)
